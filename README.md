@@ -1,4 +1,4 @@
-# interview_app
+# Weather Application
 
 A new Flutter project.
 
@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Steps to run app
+
+### 1. Clone : git clone https://github.com/formanite-20/flutter-weather-app.git
+### 2. cd flutter-weather-app
+### 3. flutter run
